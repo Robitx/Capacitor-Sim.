@@ -3,7 +3,7 @@
 """
 Created on Sun Aug 12 15:38:28 2018
 
-@author: haiyan
+@author:osman & haiyan
 """
 """
 2 1 "core_metal"
